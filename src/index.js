@@ -1,3 +1,5 @@
+//Renewss 2019
+
 import Game from "/src/game";
 
 const GAME_WIDTH = 800;
